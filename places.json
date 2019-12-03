@@ -11,7 +11,7 @@
     
 		{"name":"New York","visit_time":"03-16-2019","recommend_rate":"5","recommend_reason":"Big city","dislike":"cold and busy elites."},
 		{"name":"Miami","visit_time":"03-20-2019","recommend_rate":"5","recommend_reason":"Warm, cuban food, whale, flamingo and party!","dislike":"Moist."},
-		{"name":"Portland","visit_time":"11-28-2019","recommend_rate":"3","recommend_reason":"Rose Manor and Japanese Garden.","dislike":"Cold weather."},
+		{"name":"Portland","visit_time":"11-28-2019","recommend_rate":"3","recommend_reason":"Rose Manor and Japanese Garden.","dislike":"Cold weather."}
 
  ]
 }
