@@ -1,0 +1,18 @@
+{
+	"places":[
+		{"name":"Maryland","visit time":"08-16-2016","recommend rate":"4"},
+    
+		{"name":"Seattle","visit time":"06-10-2017","recommend rate":"4"},
+    {"name":"Hawaii","visit time":"07-02-2017","recommend rate":"4"},
+    {"name":"Connecticut","visit time":"08-20-2017","recommend rate":"4"},
+    
+		{"name":"San Francisco","visit time":"03-16-2018","recommend rate":"4"},
+    {"name":"Washigton, DC","visit time":"04-14-2018","recommend rate":"4"}
+    
+		{"name":"New York","visit time":"03-16-2019","recommend rate":"4"},
+		{"name":"Miami","visit time":"03-20-2019","recommend rate":"4"},
+		{"name":"Portland","visit time":"11-28-2019","recommend rate":"4"},
+
+ ]
+}
+	 
