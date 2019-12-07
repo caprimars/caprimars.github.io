@@ -1,17 +1,1 @@
-{
-	"places":[
-		{"name":"Maryland","visit_time":"08-16-2016","recommend_rate":"4","recommend_reason":"Blue crabs!","dislike":"Nope, I love my home!"},
-    
-		{"name":"Seattle","visit_time":"06-10-2017","recommend_rate":"4","recommend_reason":"Cherry trees in UW!","dislike":"too many raining days."},
-    		{"name":"Hawaii","visit_time":"07-02-2017","recommend_rate":"5","recommend_reason":"Beach, sun, and authentic Japanese food!","dislike":"Heat stroke in summer."},
-    		{"name":"Connecticut","visit_time":"08-20-2017","recommend_rate":"2","recommend_reason":"Uconn husky？"},
-    
-		{"name":"San Francisco","visit_time":"03-16-2018","recommend_rate":"4","recommend_reason":"Business atmosphere.","dislike":"Crowded."},
-    		{"name":"Washigton, DC","visit_time":"04-14-2018","recommend_rate":"5","recommend_reason":"Solemn, free museum","dislike":"Tension."},
-    
-		{"name":"New York","visit_time":"03-16-2019","recommend_rate":"5","recommend_reason":"Big city","dislike":"cold and busy elites."},
-		{"name":"Miami","visit_time":"03-20-2019","recommend_rate":"5","recommend_reason":"Warm, cuban food, whale, flamingo and party!","dislike":"Moist."},
-		{"name":"Portland","visit_time":"11-28-2019","recommend_rate":"3","recommend_reason":"Rose Manor and Japanese Garden.","dislike":"Cold weather."}
-
- ]
-}
+{"places":[{"name":"Maryland","visit_time":"08-16-2016","recommend_rate":"4","recommend_reason":"Blue crabs!","dislike":"Nope, I love my home!"},{"name":"Seattle","visit_time":"06-10-2017","recommend_rate":"4","recommend_reason":"Cherry trees in UW!","dislike":"too many raining days."},{"name":"Hawaii","visit_time":"07-02-2017","recommend_rate":"5","recommend_reason":"Beach, sun, and authentic Japanese food!","dislike":"Heat stroke in summer."},{"name":"Connecticut","visit_time":"08-20-2017","recommend_rate":"2","recommend_reason":"Uconn huskyï¼Ÿ"},{"name":"San Francisco","visit_time":"03-16-2018","recommend_rate":"4","recommend_reason":"Business atmosphere.","dislike":"Crowded."},{"name":"Washigton, DC","visit_time":"04-14-2018","recommend_rate":"5","recommend_reason":"Solemn, free museum","dislike":"Tension."},{"name":"New York","visit_time":"03-16-2019","recommend_rate":"5","recommend_reason":"Big city","dislike":"cold and busy elites."},{"name":"Miami","visit_time":"03-20-2019","recommend_rate":"5","recommend_reason":"Warm, cuban food, whale, flamingo and party!","dislike":"Moist."},{"name":"Portland","visit_time":"11-28-2019","recommend_rate":"3","recommend_reason":"Rose Manor and Japanese Garden.","dislike":"Cold weather."}]}
